@@ -17,7 +17,7 @@ Sou um Analista de Dados apaixonado por transformar dados brutos em insights val
 - **Descrição**: Análise detalhada das vendas de uma empresa de varejo para identificar tendências e oportunidades de crescimento.
 - **Ferramentas Utilizadas**: Python, Pandas, Matplotlib
 
-### 3. Previsão de Demanda
+### 2. Previsão de Demanda
 - **Descrição**: Desenvolvimento de um modelo de machine learning para prever a demanda de produtos em uma cadeia de suprimentos.
 - **Ferramentas Utilizadas**: Python, Scikit-learn
 
